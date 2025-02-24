@@ -23,7 +23,7 @@ The project utilizes two datasets:
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/stock-market-analysis.git
+   [git clone https://github.com/your-repo/stock-market-analysis.git](https://github.com/Mohamed-khaled-Okasha/Stock-exchange-Analysis.git)
    ```
 2. Navigate to the project directory:
    ```bash
