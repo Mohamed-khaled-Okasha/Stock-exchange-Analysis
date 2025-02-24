@@ -15,9 +15,10 @@ The project utilizes two datasets:
 - Generate insights for investors and traders.
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python 
 - Jupyter Notebook
 - SQL (for data querying and filtering)
+- power bi (for data visualization)
 
 ## Installation & Setup
 1. Clone this repository:
